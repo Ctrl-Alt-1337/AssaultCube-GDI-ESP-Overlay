@@ -3,7 +3,7 @@ Simple proof of concept on how to draw to an overlay through the use of GDI in A
 
 - WHAT IS THIS:
   - This small hack finds players on the game map and draws a distance from one self to their person.
-    ![alt text](https://github.com/Ctrl-Alt-1337/AssaultCube-DirectX-ESP-Overlay/blob/master/screenshot.jpg)
+    ![alt text](https://github.com/Ctrl-Alt-1337/AssaultCube-GDI-ESP-Overlay/blob/master/screenshot.jpg)
 
 - HOW TO RUN THE HACK:
   - If using Visual Studio then Right Click on the project -> Properties
