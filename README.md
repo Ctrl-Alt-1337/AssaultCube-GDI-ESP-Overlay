@@ -14,7 +14,7 @@ Simple proof of concept on how to draw to an overlay through the use of GDI in A
   
 - OTHER RELEVANT INFO:
 	- Base address and offsets for entities (names, positions, health etc.) are found through OllyDbg and Cheat Engine.
-  - Relevant WinAPI functions: FindWindowA, GetWindowThreadProcessId, OpenProcess, ReadProcessMemory
+  - Relevant WinAPI functions: ```FindWindowA```, ```GetWindowThreadProcessId```, ```OpenProcess```, ```ReadProcessMemory```
 
 - CREDITS:
 	- WorldToScreen: Guidedhacking.com
