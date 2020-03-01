@@ -8,7 +8,7 @@ Simple proof of concept on how to draw to an overlay through the use of GDI in A
 - HOW TO RUN THE HACK:
   - If using Visual Studio then Right Click on the project -> Properties
     - -> Advanced -> Character Set -> Make sure you use 'Use Multi-Byte Character Set'
-  - Platform: Win32
+  - Build the hack (platform: Win32)
   - Enter AssaultCube
   - Start the hack
   
@@ -20,4 +20,4 @@ Simple proof of concept on how to draw to an overlay through the use of GDI in A
 	- WorldToScreen: Guidedhacking.com
   
 - DISCLAIMER:
-  - This hack should never be used to ruin any games for other players. This serves solely as a learning purpose to better understand the workings of memory forensics and the WinAPI.
+  - This hack should never be used to ruin the game for other players. This serves solely as a purpose for learning and to better understand the workings of memory forensics and the WinAPI.
